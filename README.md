@@ -2,7 +2,7 @@
 
 #Supplimentary file for our Tetrahymena mutation rate paper
 
-This repo holds an [Ipython Notebook](Suppliment.ipynb) containing an
+This repo holds an [Ipython Notebook](Supplement.ipynb) containing an
 exploratory analysis into an unsual pattern affecting two lines of an MA
 experiment described in [a forthcoming paper](http://dx.doi.org/10.1101/025536).
 
